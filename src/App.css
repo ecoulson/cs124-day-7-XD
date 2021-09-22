@@ -1,0 +1,22 @@
+.rowSelected {
+  background-color: rgb(243, 236, 214);
+}
+
+.contactRow {
+  list-style: none;
+}
+
+.contactName {
+  font-weight: bold;
+}
+
+.contactEmail {
+  font-family: monospace;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: center;
+}
+
+.contactTable {
+  border-collapse: collapse;
+}
